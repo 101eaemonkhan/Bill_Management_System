@@ -22,7 +22,7 @@ Clone the Repository
 sh
 Copy
 Edit
-git clone https://github.com/your-username/Bill_Management_System.git
+git clone https://github.com/101eaemonkhan/Bill_Management_System.git
 cd Bill_Management_System
 Run the Python Script
 
